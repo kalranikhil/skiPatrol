@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1044264418732",
+    "firebase_url": "https://canadian-ski-patrol.firebaseio.com",
+    "project_id": "canadian-ski-patrol",
+    "storage_bucket": "canadian-ski-patrol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044264418732:android:fc0a9cfd1bb9808c",
+        "android_client_info": {
+          "package_name": "com.example.nikhil.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044264418732-kmmq8eqbi1pt216220brbg58ioudgh9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvb7rAZC7iC_4-25mHWM2rrFHfiEQCBak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
